@@ -1,0 +1,28 @@
+{ "name": "web-utvckl-intro-uppgift-6",
+  "version": "1.0.0",
+  "description": "Uppgift 6 webutveckling introduktion",
+  "keywords": [],
+  "homepage": "https://github.com/AndreasNorgren10/web-utvckl-intro-uppgift-6#readme",
+  "bugs": {
+    "url": "https://github.com/AndreasNorgren10/web-utvckl-intro-uppgift-6/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreasNorgren10/web-utvckl-intro-uppgift-6.git"
+  },
+  "license": "ISC",
+  "author": "Andreas",
+  "type": "commonjs",
+  "main": "code.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "mqtt": "^5.16.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
+
+
